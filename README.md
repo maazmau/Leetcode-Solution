@@ -9,6 +9,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/maazmau/Leetcode-Solution/tree/main/0015-3sum/) | Medium |
+| [0136-single-number](https://github.com/maazmau/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0283-move-zeroes](https://github.com/maazmau/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -19,4 +20,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/maazmau/Leetcode-Solution/tree/main/0015-3sum/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/maazmau/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
