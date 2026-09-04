@@ -16,6 +16,7 @@
 | [0016-3sum-closest](https://github.com/maazmau/Leetcode-Solution/tree/main/0016-3sum-closest/) | Medium |
 | [0053-maximum-subarray](https://github.com/maazmau/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/maazmau/Leetcode-Solution/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/maazmau/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/maazmau/Leetcode-Solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/maazmau/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
@@ -31,6 +32,7 @@
 | [0015-3sum](https://github.com/maazmau/Leetcode-Solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/maazmau/Leetcode-Solution/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/maazmau/Leetcode-Solution/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/maazmau/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/maazmau/Leetcode-Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -40,6 +42,7 @@
 | [0015-3sum](https://github.com/maazmau/Leetcode-Solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/maazmau/Leetcode-Solution/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/maazmau/Leetcode-Solution/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
