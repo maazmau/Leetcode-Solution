@@ -18,6 +18,7 @@
 | [0075-sort-colors](https://github.com/maazmau/Leetcode-Solution/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/maazmau/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0283-move-zeroes](https://github.com/maazmau/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/maazmau/Leetcode-Solution/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0877-stone-game](https://github.com/maazmau/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
 | [1929-concatenation-of-array](https://github.com/maazmau/Leetcode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
@@ -80,4 +81,8 @@
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/maazmau/Leetcode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/maazmau/Leetcode-Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
