@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/maazmau/Leetcode-Solution/tree/main/0007-reverse-integer/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0877-stone-game](https://github.com/maazmau/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/maazmau/Leetcode-Solution/tree/main/1025-divisor-game/) | Easy |
 | [2235-add-two-integers](https://github.com/maazmau/Leetcode-Solution/tree/main/2235-add-two-integers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/maazmau/Leetcode-Solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Array
@@ -56,6 +57,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/maazmau/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0877-stone-game](https://github.com/maazmau/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/maazmau/Leetcode-Solution/tree/main/1025-divisor-game/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/maazmau/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
+| [1025-divisor-game](https://github.com/maazmau/Leetcode-Solution/tree/main/1025-divisor-game/) | Easy |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +96,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/maazmau/Leetcode-Solution/tree/main/0238-product-of-array-except-self/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/maazmau/Leetcode-Solution/tree/main/1025-divisor-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/maazmau/Leetcode-Solution/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
