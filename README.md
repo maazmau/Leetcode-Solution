@@ -13,6 +13,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/maazmau/Leetcode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/maazmau/Leetcode-Solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/maazmau/Leetcode-Solution/tree/main/0016-3sum-closest/) | Medium |
 | [0053-maximum-subarray](https://github.com/maazmau/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
@@ -57,6 +58,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/maazmau/Leetcode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/maazmau/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -88,6 +90,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/maazmau/Leetcode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0162-find-peak-element](https://github.com/maazmau/Leetcode-Solution/tree/main/0162-find-peak-element/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Simulation
