@@ -26,6 +26,7 @@
 | [0485-max-consecutive-ones](https://github.com/maazmau/Leetcode-Solution/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0877-stone-game](https://github.com/maazmau/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
 | [1470-shuffle-the-array](https://github.com/maazmau/Leetcode-Solution/tree/main/1470-shuffle-the-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/maazmau/Leetcode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/maazmau/Leetcode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/maazmau/Leetcode-Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/maazmau/Leetcode-Solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -117,4 +118,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/maazmau/Leetcode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/maazmau/Leetcode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
