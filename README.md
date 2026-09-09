@@ -9,6 +9,7 @@
 | [0877-stone-game](https://github.com/maazmau/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/maazmau/Leetcode-Solution/tree/main/1025-divisor-game/) | Easy |
 | [2235-add-two-integers](https://github.com/maazmau/Leetcode-Solution/tree/main/2235-add-two-integers/) | Easy |
+| [3870-count-commas-in-range](https://github.com/maazmau/Leetcode-Solution/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/maazmau/Leetcode-Solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
