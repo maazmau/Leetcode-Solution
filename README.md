@@ -35,6 +35,7 @@
 | [0877-stone-game](https://github.com/maazmau/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
 | [1089-duplicate-zeros](https://github.com/maazmau/Leetcode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/maazmau/Leetcode-Solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/maazmau/Leetcode-Solution/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/maazmau/Leetcode-Solution/tree/main/1470-shuffle-the-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/maazmau/Leetcode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/maazmau/Leetcode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
