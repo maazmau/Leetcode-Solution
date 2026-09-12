@@ -21,6 +21,7 @@
 | [0015-3sum](https://github.com/maazmau/Leetcode-Solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/maazmau/Leetcode-Solution/tree/main/0016-3sum-closest/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/maazmau/Leetcode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/maazmau/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/maazmau/Leetcode-Solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
@@ -106,6 +107,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/maazmau/Leetcode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/maazmau/Leetcode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/maazmau/Leetcode-Solution/tree/main/0162-find-peak-element/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/maazmau/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
