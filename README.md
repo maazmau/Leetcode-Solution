@@ -115,6 +115,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/maazmau/Leetcode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/maazmau/Leetcode-Solution/tree/main/0162-find-peak-element/) | Medium |
+| [0278-first-bad-version](https://github.com/maazmau/Leetcode-Solution/tree/main/0278-first-bad-version/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maazmau/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/maazmau/Leetcode-Solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -161,5 +162,6 @@
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/maazmau/Leetcode-Solution/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/maazmau/Leetcode-Solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
