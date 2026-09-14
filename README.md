@@ -116,6 +116,7 @@
 | [0035-search-insert-position](https://github.com/maazmau/Leetcode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/maazmau/Leetcode-Solution/tree/main/0162-find-peak-element/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maazmau/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/maazmau/Leetcode-Solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/maazmau/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
 ## Simulation
@@ -157,4 +158,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/maazmau/Leetcode-Solution/tree/main/0836-rectangle-overlap/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/maazmau/Leetcode-Solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
