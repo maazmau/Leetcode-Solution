@@ -27,6 +27,7 @@
 | [0035-search-insert-position](https://github.com/maazmau/Leetcode-Solution/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/maazmau/Leetcode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/maazmau/Leetcode-Solution/tree/main/0075-sort-colors/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/maazmau/Leetcode-Solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/maazmau/Leetcode-Solution/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/maazmau/Leetcode-Solution/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -121,6 +122,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/maazmau/Leetcode-Solution/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/maazmau/Leetcode-Solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/maazmau/Leetcode-Solution/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maazmau/Leetcode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
