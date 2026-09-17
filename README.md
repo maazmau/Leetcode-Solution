@@ -41,6 +41,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/maazmau/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/maazmau/Leetcode-Solution/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/maazmau/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/maazmau/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
@@ -130,6 +131,7 @@
 | [0278-first-bad-version](https://github.com/maazmau/Leetcode-Solution/tree/main/0278-first-bad-version/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maazmau/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/maazmau/Leetcode-Solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/maazmau/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
 ## Simulation
