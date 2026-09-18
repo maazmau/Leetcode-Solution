@@ -47,6 +47,7 @@
 | [0877-stone-game](https://github.com/maazmau/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
 | [1089-duplicate-zeros](https://github.com/maazmau/Leetcode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/maazmau/Leetcode-Solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/maazmau/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/maazmau/Leetcode-Solution/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/maazmau/Leetcode-Solution/tree/main/1470-shuffle-the-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/maazmau/Leetcode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -77,6 +78,7 @@
 | [0268-missing-number](https://github.com/maazmau/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maazmau/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/maazmau/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +147,7 @@
 | [0268-missing-number](https://github.com/maazmau/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maazmau/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/maazmau/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maazmau/Leetcode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -179,4 +182,8 @@
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/maazmau/Leetcode-Solution/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/maazmau/Leetcode-Solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/maazmau/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
