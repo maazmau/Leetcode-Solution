@@ -16,6 +16,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/maazmau/Leetcode-Solution/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/maazmau/Leetcode-Solution/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [2235-add-two-integers](https://github.com/maazmau/Leetcode-Solution/tree/main/2235-add-two-integers/) | Easy |
+| [2469-convert-the-temperature](https://github.com/maazmau/Leetcode-Solution/tree/main/2469-convert-the-temperature/) | Easy |
 | [3870-count-commas-in-range](https://github.com/maazmau/Leetcode-Solution/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/maazmau/Leetcode-Solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Array
