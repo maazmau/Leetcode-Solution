@@ -169,6 +169,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1108-defanging-an-ip-address](https://github.com/maazmau/Leetcode-Solution/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maazmau/Leetcode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
