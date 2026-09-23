@@ -39,6 +39,7 @@
 | [0162-find-peak-element](https://github.com/maazmau/Leetcode-Solution/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maazmau/Leetcode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/maazmau/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/maazmau/Leetcode-Solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0260-single-number-iii](https://github.com/maazmau/Leetcode-Solution/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/maazmau/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
@@ -80,6 +81,7 @@
 | [0016-3sum-closest](https://github.com/maazmau/Leetcode-Solution/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/maazmau/Leetcode-Solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/maazmau/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/maazmau/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maazmau/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -151,6 +153,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/maazmau/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/maazmau/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maazmau/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
