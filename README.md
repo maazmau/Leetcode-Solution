@@ -54,6 +54,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/maazmau/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/maazmau/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
+| [0896-monotonic-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0896-monotonic-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/maazmau/Leetcode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/maazmau/Leetcode-Solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/maazmau/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
