@@ -9,6 +9,7 @@
 | [0069-sqrtx](https://github.com/maazmau/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/maazmau/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/maazmau/Leetcode-Solution/tree/main/0326-power-of-three/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0836-rectangle-overlap](https://github.com/maazmau/Leetcode-Solution/tree/main/0836-rectangle-overlap/) | Easy |
@@ -224,4 +225,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/maazmau/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/maazmau/Leetcode-Solution/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
