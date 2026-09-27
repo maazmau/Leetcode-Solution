@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/maazmau/Leetcode-Solution/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/maazmau/Leetcode-Solution/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/maazmau/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/maazmau/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -139,6 +140,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/maazmau/Leetcode-Solution/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/maazmau/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/maazmau/Leetcode-Solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/maazmau/Leetcode-Solution/tree/main/0162-find-peak-element/) | Medium |
@@ -218,4 +220,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/maazmau/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/maazmau/Leetcode-Solution/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
