@@ -187,6 +187,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1108-defanging-an-ip-address](https://github.com/maazmau/Leetcode-Solution/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maazmau/Leetcode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maazmau/Leetcode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -219,6 +220,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/maazmau/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maazmau/Leetcode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,4 +233,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/maazmau/Leetcode-Solution/tree/main/0326-power-of-three/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maazmau/Leetcode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
