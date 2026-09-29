@@ -57,6 +57,7 @@
 | [0704-binary-search](https://github.com/maazmau/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/maazmau/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0896-monotonic-array/) | Easy |
+| [1051-height-checker](https://github.com/maazmau/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/maazmau/Leetcode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/maazmau/Leetcode-Solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/maazmau/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -92,6 +93,7 @@
 | [0268-missing-number](https://github.com/maazmau/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maazmau/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1051-height-checker](https://github.com/maazmau/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/maazmau/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -123,6 +125,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/maazmau/Leetcode-Solution/tree/main/0075-sort-colors/) | Medium |
+| [1051-height-checker](https://github.com/maazmau/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +214,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1051-height-checker](https://github.com/maazmau/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/maazmau/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
