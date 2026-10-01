@@ -93,6 +93,7 @@
 | [0217-contains-duplicate](https://github.com/maazmau/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/maazmau/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maazmau/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/maazmau/Leetcode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/maazmau/Leetcode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1051-height-checker](https://github.com/maazmau/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
@@ -104,6 +105,7 @@
 | [0191-number-of-1-bits](https://github.com/maazmau/Leetcode-Solution/tree/main/0191-number-of-1-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/maazmau/Leetcode-Solution/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/maazmau/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/maazmau/Leetcode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/maazmau/Leetcode-Solution/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maazmau/Leetcode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Divide and Conquer
@@ -171,6 +173,7 @@
 | [0217-contains-duplicate](https://github.com/maazmau/Leetcode-Solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/maazmau/Leetcode-Solution/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maazmau/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/maazmau/Leetcode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/maazmau/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/maazmau/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -191,6 +194,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/maazmau/Leetcode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/maazmau/Leetcode-Solution/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maazmau/Leetcode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maazmau/Leetcode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
