@@ -68,6 +68,7 @@
 | [1929-concatenation-of-array](https://github.com/maazmau/Leetcode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/maazmau/Leetcode-Solution/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/maazmau/Leetcode-Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2465-number-of-distinct-averages](https://github.com/maazmau/Leetcode-Solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/maazmau/Leetcode-Solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@
 | [0633-sum-of-square-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1089-duplicate-zeros](https://github.com/maazmau/Leetcode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/maazmau/Leetcode-Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2465-number-of-distinct-averages](https://github.com/maazmau/Leetcode-Solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +100,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1051-height-checker](https://github.com/maazmau/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/maazmau/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2465-number-of-distinct-averages](https://github.com/maazmau/Leetcode-Solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +182,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/maazmau/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/maazmau/Leetcode-Solution/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maazmau/Leetcode-Solution/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2465-number-of-distinct-averages](https://github.com/maazmau/Leetcode-Solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
