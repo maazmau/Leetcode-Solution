@@ -57,6 +57,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/maazmau/Leetcode-Solution/tree/main/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/maazmau/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
+| [0881-boats-to-save-people](https://github.com/maazmau/Leetcode-Solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [0896-monotonic-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0896-monotonic-array/) | Easy |
 | [1051-height-checker](https://github.com/maazmau/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/maazmau/Leetcode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
@@ -82,6 +83,7 @@
 | [0283-move-zeroes](https://github.com/maazmau/Leetcode-Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/maazmau/Leetcode-Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0881-boats-to-save-people](https://github.com/maazmau/Leetcode-Solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1089-duplicate-zeros](https://github.com/maazmau/Leetcode-Solution/tree/main/1089-duplicate-zeros/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/maazmau/Leetcode-Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/maazmau/Leetcode-Solution/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -98,6 +100,7 @@
 | [0389-find-the-difference](https://github.com/maazmau/Leetcode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/maazmau/Leetcode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/maazmau/Leetcode-Solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0881-boats-to-save-people](https://github.com/maazmau/Leetcode-Solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1051-height-checker](https://github.com/maazmau/Leetcode-Solution/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/maazmau/Leetcode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/maazmau/Leetcode-Solution/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -251,4 +254,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maazmau/Leetcode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/maazmau/Leetcode-Solution/tree/main/0881-boats-to-save-people/) | Medium |
+## Timsort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/maazmau/Leetcode-Solution/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
