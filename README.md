@@ -27,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/maazmau/Leetcode-Solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/maazmau/Leetcode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/maazmau/Leetcode-Solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/maazmau/Leetcode-Solution/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/maazmau/Leetcode-Solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -201,6 +202,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/maazmau/Leetcode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0389-find-the-difference](https://github.com/maazmau/Leetcode-Solution/tree/main/0389-find-the-difference/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/maazmau/Leetcode-Solution/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maazmau/Leetcode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -262,4 +264,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/maazmau/Leetcode-Solution/tree/main/0881-boats-to-save-people/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/maazmau/Leetcode-Solution/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
