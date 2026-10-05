@@ -15,6 +15,7 @@
 | [0836-rectangle-overlap](https://github.com/maazmau/Leetcode-Solution/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/maazmau/Leetcode-Solution/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/maazmau/Leetcode-Solution/tree/main/1025-divisor-game/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/maazmau/Leetcode-Solution/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/maazmau/Leetcode-Solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/maazmau/Leetcode-Solution/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/maazmau/Leetcode-Solution/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
