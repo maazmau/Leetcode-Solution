@@ -19,6 +19,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/maazmau/Leetcode-Solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/maazmau/Leetcode-Solution/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/maazmau/Leetcode-Solution/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1688-count-of-matches-in-tournament](https://github.com/maazmau/Leetcode-Solution/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2235-add-two-integers](https://github.com/maazmau/Leetcode-Solution/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/maazmau/Leetcode-Solution/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/maazmau/Leetcode-Solution/tree/main/2469-convert-the-temperature/) | Easy |
@@ -173,6 +174,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/maazmau/Leetcode-Solution/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1929-concatenation-of-array](https://github.com/maazmau/Leetcode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/maazmau/Leetcode-Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
